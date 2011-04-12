@@ -1,30 +1,30 @@
-mapViewer 0.4 für Landwirtschafts Simulator 2011
+ï»¿mapViewer 0.4 fÃ¼r Landwirtschafts Simulator 2011
 =================================================
 Zeigt die komplette Map auf dem gesamten Bildschirm an. 
-Wer kennt es nicht, man ruft die PDA Map auf und hat keinen Überblick über die gesamte Fläche...
-Zeigt die Fahrzeuge, Anbaugeräte und Spieler auf der Karte an.
+Wer kennt es nicht, man ruft die PDA Map auf und hat keinen Ãœberblick Ã¼ber die gesamte FlÃ¤che...
+Zeigt die Fahrzeuge, AnbaugerÃ¤te und Spieler auf der Karte an.
 
-Besonders im Multiplayer ist es nützlich zu wissen wer sich gerade wo auf der Karte befindet.
+Besonders im Multiplayer ist es nÃ¼tzlich zu wissen wer sich gerade wo auf der Karte befindet.
 
-Voll Multiplayer fähig, es werden alle Spieler angezeigt
-Informationen darüber wie über die Point of Interest (PoI) angezeigt werden befinden sich in der PDF im Docs Ordner
+Voll Multiplayer fÃ¤hig, es werden alle Spieler angezeigt
+Informationen darÃ¼ber wie Ã¼ber die Point of Interest (PoI) angezeigt werden befinden sich in der PDF im Docs Ordner
 
-Auch welche Parameter in der XML eingestellt werden können ist dort beschrieben.
-Besonders die unabhängigkeit zu den Maps war ein Feature was ich schon lange versucht habe umzusetzen. Nun endlich ist es mir gelunden.
-Es muss nicht mehr für jede Map eine eigene Mapviewer zip angelegt werden.
+Auch welche Parameter in der XML eingestellt werden kÃ¶nnen ist dort beschrieben.
+Besonders die unabhÃ¤ngigkeit zu den Maps war ein Feature was ich schon lange versucht habe umzusetzen. Nun endlich ist es mir gelunden.
+Es muss nicht mehr fÃ¼r jede Map eine eigene Mapviewer zip angelegt werden.
 
 Taste(n) :
 ----------
-Die Tasten lassen sich über die Optionen anpassen
+Die Tasten lassen sich Ã¼ber die Optionen anpassen
 m	 		=	Anzeigen/Ausblenden
 N			=	Legende Ein/Ausblenden
 NP +/-		=	Transparenz +/-
 
 Anzeige :
 ---------
-Grafiken als Symbole verwendet siehe beigefügter Beschreibung/Screenshot om Docs Ordner.
+Grafiken als Symbole verwendet siehe beigefÃ¼gter Beschreibung/Screenshot om Docs Ordner.
 
-*! Abweichende Positionen hängen von der Qualität der PDA Map ab, also Mapper gebt euch Mühe :) !**
+*! Abweichende Positionen hÃ¤ngen von der QualitÃ¤t der PDA Map ab, also Mapper gebt euch MÃ¼he :) !**
 
 Autor: Fox-Alpha
 Kontakt: fox-alpha@tarnhoerner.de
@@ -32,37 +32,37 @@ Exclusiv Mod www.MODHOSTER.de
 
 RoadMap
 =======
-0.5		- Infofenster zu einzelnen Fahrzeugen ähnlich dem Inspector
+0.5		- Infofenster zu einzelnen Fahrzeugen Ã¤hnlich dem Inspector
 			- Durchschaltbar und permanent anzeige
 
 Changelog
 =========
-0.4		- Komplett unabhängig welche Map geladen ist, es wird die PDA aus dem Map zip angezeigt
-			*! Leicht abweichende Positionen hängen von der Qualität der PDA Map ab. !**
-		- Zusätzliches overlay für PoI über die mapviewer.xml steuerbar z.B. für Feldnummerierung
-			- Beispiel für die Standardmap ist enthalten
+0.4		- Komplett unabhÃ¤ngig welche Map geladen ist, es wird die PDA aus dem Map zip angezeigt
+			*! Leicht abweichende Positionen hÃ¤ngen von der QualitÃ¤t der PDA Map ab. !**
+		- ZusÃ¤tzliches overlay fÃ¼r PoI Ã¼ber die mapviewer.xml steuerbar z.B. fÃ¼r Feldnummerierung
+			- Beispiel fÃ¼r die Standardmap ist enthalten
 			
 0.34	-Modverzeichnis einwenig umstrukturiert
 		-Viele Variable in die Mapviewer.xml ausgelagert
-			Es ist nicht mehr nötigt die LUA zu bearbeiten
-		-Maplegende um ein Overlay für interessante Orte erweitert + Feldnummerierung
-			-PoI lässt sich in der XML ausschalten
-		-Es lässt sich nun die Karten transparenz einstellen. 
-			So ist es möglich auch während der Fahrt auf die Map zu schauen.
+			Es ist nicht mehr nÃ¶tigt die LUA zu bearbeiten
+		-Maplegende um ein Overlay fÃ¼r interessante Orte erweitert + Feldnummerierung
+			-PoI lÃ¤sst sich in der XML ausschalten
+		-Es lÃ¤sst sich nun die Karten transparenz einstellen. 
+			So ist es mÃ¶glich auch wÃ¤hrend der Fahrt auf die Map zu schauen.
 			Aktueller Wert wird oben in der Mitte angezeigt
 		-Es lassen sich alle beliebigen Karten einbinden.
-			- Sogar 4096 Karten lassen sich einblenden, hierfür muss nur eine passende pda_Map.png/dds vorhanden sein.
-		-Readme Übersetzung deutsch/englisch
+			- Sogar 4096 Karten lassen sich einblenden, hierfÃ¼r muss nur eine passende pda_Map.png/dds vorhanden sein.
+		-Readme Ãœbersetzung deutsch/englisch
 
-0.31	Tasten lassen sich über die Optionen anpassen
-		Es lässt sich auf der Map eine Legende einblenden
+0.31	Tasten lassen sich Ã¼ber die Optionen anpassen
+		Es lÃ¤sst sich auf der Map eine Legende einblenden
 		Viele kleine Verbesserungen am Script
 
-0.25	Neue Symbole eingefügt
+0.25	Neue Symbole eingefÃ¼gt
 		Taste von Space auf 'm' umgelegt
 
 0.2		Erweiterte Version
-		- Zeigt die Karten HotSpots jetzt auch in der Großansicht
+		- Zeigt die Karten HotSpots jetzt auch in der GroÃŸansicht
 		- Zeigt die Spielernamen in der PDA Map an
 		
 0.1		Erste Version zum Download
