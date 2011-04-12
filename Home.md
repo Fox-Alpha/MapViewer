@@ -2,7 +2,8 @@
 
 ### Aktuelle Version
 [[Version 0.35|Mapviewer-v0.35]]  
-[[Komplettes Changelog|Changelog]]
+[[Komplettes Changelog|Changelog]]  
+[[MapViewer an weitere Karten anpassen|Mapviewer-anpassen]]
 
 ### Ältere Versionen
 [[Version 0.31|Mapviewer-v0.31]]  
