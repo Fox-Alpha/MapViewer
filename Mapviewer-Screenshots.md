@@ -1,4 +1,4 @@
-## Mapviewer V0.35 Screenshots
+## Mapviewer V0.35 Screenshots (Standrad Karte)
 + Standard Ansicht des Mapviewers mit Positionen der Spieler und Fahrzeuge  
 [[screenshots/mapViewer_Ver034_1.png]]  
 
