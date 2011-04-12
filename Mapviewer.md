@@ -17,3 +17,4 @@ Der MapViewer ist eine Modifikation zum Spiel [[Landwirtschafts Simulator 2011|l
 + Keine Änderungen in der LUA notwendig, viele Anpassungen lassen sich über die [[mapviewer.xml|mapviewer_xml]] vornehmen.
 + Einfaches [[anpassen|mapviewer_anpassen]] an jede Karte
 + Transparenz Einstellung
++ Anzeigen eines optionalen Overlay für Points of Interests (PoI)
