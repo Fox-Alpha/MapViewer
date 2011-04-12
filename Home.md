@@ -8,6 +8,7 @@
 [[mapviewer.xml|Mapviewer-xml]]   
 
 ### Ältere Versionen
+[[Version 0.34|Mapviewer-v0.34]]  
 [[Version 0.31|Mapviewer-v0.31]]  
 [[Version 0.25|Mapviewer-v0.25]]  
 [[Version 0.20|Mapviewer-v0.20]]  
