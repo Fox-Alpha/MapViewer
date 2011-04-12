@@ -7,4 +7,4 @@ Und ich habe noch zur besseren Übersicht eine Legende erstellt die sich ebenfal
 
 Weiterhin habe ich angefangen meine Fortschritte in Form von Dokumentationen festzuhalten.
 
-Die [[Versiuon 0.34|Mapviewer-v0.34]] hatte dann einige Tage später einen ganzen Schwung Verbesserungen intus.
+Die [[Version 0.34|Mapviewer-v0.34]] hatte dann einige Tage später einen ganzen Schwung Verbesserungen intus.
