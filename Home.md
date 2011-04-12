@@ -1,3 +1,3 @@
 ## Dies ist das Entwicklerportal zur LS 11 Modifikation : MapViewer
 
-[[Was ist der MapViewer|Mapviewer]]
+[[Version 0.35|Mapviewer_v0.35]]
