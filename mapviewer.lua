@@ -90,6 +90,7 @@ end;
 function mapviewer:keyEvent(unicode, sym, modifier, isDown)
 	if sym==32 and isDown then
 		self.mapvieweractive=not self.mapvieweractive;
+		renderText(0.505, 0.04, 0.02,"Hallo Welt mein erster LS 11 Mod Sym == 32");
 	end;
 end;
 
@@ -124,7 +125,6 @@ function mapviewer:update(dt)
 end;
 
 function mapviewer:draw()
-
 	if self.mapvieweractive then
 		self.bigmap.OverlayId = createImageOverlay(Utils.getFilename("pda_map.png", self.moddir));
 
@@ -140,6 +140,23 @@ function mapviewer:draw()
 			setTextAlignment(RenderText.ALIGN_CENTER);
 			renderText(self.bigmap.player.xPos+0.03 , self.bigmap.player.yPos, 0.02, g_currentMission.player.controllerName);
 			setTextAlignment(RenderText.ALIGN_LEFT);
+		end;
+
+		--Hotspots auf grosse Karte
+		for j=1, table.getn(g_currentMission.missionPDA.hotspots) do
+			self.hsWidth = g_currentMission.missionPDA.hotspots[j].width;
+			self.hsHeight = g_currentMission.missionPDA.hotspots[j].height;
+			self.hsPosX = (g_currentMission.missionPDA.hotspots[j].xMapPos/2048)-(self.hsWidth/2);
+			self.hsPosY = 1-(g_currentMission.missionPDA.hotspots[j].yMapPos/2048);--self.hsHeight;
+			self.hsOverlayId = g_currentMission.missionPDA.hotspots[j].overlay.overlayId;
+			renderOverlay(self.hsOverlayId, self.hsPosX, self.hsPosY, self.hsWidth, self.hsHeight);
+				--debug
+				-- print("Index HotSpots erzeugen:" .. j);
+				-- print("self.hsWidth :" .. self.hsWidth);
+				-- print("self.hsHeight :" .. self.hsHeight);
+				-- print("self.hsPosX :" .. self.hsPosX);
+				-- print("self.hsPosY :" .. self.hsPosY);
+				-- print("self.hsOverlayId :" .. self.hsOverlayId);
 		end;
 
 		-- Fahrzeuge auf grosse Karte
@@ -186,6 +203,20 @@ function mapviewer:draw()
 	renderText(0.5-0.0273, 1-0.03,0.02, string.format("Richtung %.0f", self.TRichtung));
 	setTextAlignment(RenderText.ALIGN_LEFT);
 	----------------------------------------
+
+	
+	--Namen auf PDA anzeigen
+		self.plyname.name = g_currentMission.player.controllerName;
+		self.plyname.yPos = g_currentMission.missionPDA.pdaPlayerMapArrow.y - 0.003;
+		self.plyname.xPos = g_currentMission.missionPDA.pdaPlayerMapArrow.x ;-- g_currentMission.missionPDA.pdaPlayerMapArrow.width;
+	if g_currentMission.missionPDA.showPDA == true and g_currentMission.missionPDA.screen==1 then
+		setTextColor(256,256,256,1);
+		setTextAlignment(RenderText.ALIGN_CENTER);
+		renderText(self.plyname.xPos, self.plyname.yPos, 0.02, self.plyname.name);
+		setTextAlignment(RenderText.ALIGN_LEFT);
+	end;
+	---------------------------
+
 end;
 
 function mapviewer:calcdir()
