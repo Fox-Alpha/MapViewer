@@ -14,10 +14,28 @@ Wie kann nun dies Eure Map verbessern ?
 
 Ganz einfach, wenn Ihr eine sauber PDA_Map erstellt habt, dann wird die Map durch den MapViewer auf den ganzen Bildschirm dargestellt, jeder Spieler kann sich leichter und schneller zurecht finden. Je besser die Qualität um so besser das Spielgefühl.
 
-Für die Standardmap habe ich eine PoI und eine Nummerierung erstellt. Der MapViewer kann nun ganz nach Wunsch die Nummerierung und/oder die PoI zusätzlich zur Map anzeigen.
-Dies möchte ich natürlich nicht für jede der tausend anderen Maps ebenfalls machen. 
+Am Beispiel der Standardmap könnt Ihr sehen wie die PoI und Nummerierung auf die Karte wirken. Diese habe ich bereits erstellt und dem zip hinzugefügt.
+Der MapViewer zeigt diese ganz nach Wunsch des Spielers zusätzlich zur Map an.
+
+Damit ich diese zusatzdateien nicht für alle Maps selber erstellen muss, bist Du hier als Mapper gefragt. 
+Diese zusätzlichen zwei Dateien zu erstellen geht recht zügig (im Vergleich zu einer ordentlichen PDA_Map). Diese nehmen auch nur wenige Kilobyte im zip ein. Der Aufwand ist somit nur minimal.
+
+Meine Entwickler Version kann schon aus dem Mapzip die PDA laden und anzeigen, sind die beiden anderen Dateien vorhanden erhöht dies die Qualität ungemein.
 
 Ich möchte nun eine Kooperation mit möglichst vielen Mappern eingehen, der Mapper fügt in seine Zip zur normalen PDA eine Nummerierung und/oder eine PoI ein. Kann nun in seine Beschreibung eine kompatibilität zum MapViewer erwähnen andersherum erwähne ich alle Mapper (die mich informiert haben) in meinem MapViewer. Dies beschert uns allen mit sicherheit mehr zugriffe.
+
+#### Was ist nötig ?
+Ihr erstellt so wie bisher eine ordentliche PDA Map (Dies sollte in eurem Interesse sowieso gemacht werden.
+Zusätzlich erzeugt Ihr eine Transparente Grafik für die NUmmerierung und die PoI (falls gewünscht) und fügt diese zwei Dateien eurem zip im gleichen Ordner wie die PDA hinzu.
+Schreibt mir eine PM bei Modhoster oder eine EMail an [[Fox-Alpha@Tarnhoerner.de]]
+Kurze Beschreibung bzw einen Link wo eure Map zufinden ist. (Bitte keinen download, ich werde mir nicht jede Map herunterladen)
+Erwähnt bei eurer Beschreibung meinen Mapviewer
+
+Das war es schon.
+
+Ich bin fester Ansicht das hiervon beide Seiten, Du als Mapper und ich mit den Mapviewer davon profitieren können.
+
+Ich werde dann eure Map in meine Liste mit aufnehmen.
 
 Wie aus den Kommentaren auf Modhoster.de zu meinem MapViewer zu entnehmen ist, kommt diese kleine Modifikation recht gut und sehr positiv in der Community an.
 
