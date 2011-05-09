@@ -2,7 +2,7 @@ Hallo an alle Mapper,
 ich habe einen Vorschlag der Eure Maps noch ein Stück besser machen kann.
 
 Zum besseren Verständnis meines Vorschlags sollte jeder wissen um was es beim MapViewer geht.
-Wer noch nicht weiss was der Mapviewer ist der kann sich und sollte sich meine [[Beschreibung|Mapvbiewer-v0.35]] und die [[screenshots]] einmal genauer anschauen.
+Wer noch nicht weiss was der Mapviewer ist der kann sich und sollte sich meine [[Beschreibung|Mapviewer-v0.35]] und die [[screenshots]] einmal genauer anschauen.
 
 Da ich den MapViewer entworfen habe um die gespielte Map übersichtlicher im Spiel darzustellen mich aber nicht auf die reine Map beschränken möchte habe ich noch die Möglichkeit der PoI und der Feldnummerierung eingefügt.
 
