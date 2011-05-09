@@ -1,7 +1,7 @@
 ## Dies ist das Entwicklerportal zur LS 11 Modifikation : MapViewer
 ### Nächste Version 
-[[Version 0.40|Mapviewer-v0.40]]
-[[Interessant für LS11 Mapper|ls2011_Mapper]]
+[[Version 0.40|Mapviewer-v0.40]]  
+[[Interessant für LS11 Mapper|ls2011_Mapper]]  
 
 ### Aktuelle Version
 [[Version 0.35|Mapviewer-v0.35]]  
