@@ -1,5 +1,8 @@
-### Downloadlinks zum MapViewer  
+## Downloadlinks zum MapViewer 
+### Aktuellste Version  
 [[MapViewer 0.35 Download bei Modhoster.de|http://www.modhoster.de/mods/fox-alpha-beta-mapviewer--4]]  
+
+### Weitere Versionen
 [[MapViewer 0.34 Download bei Modhoster.de|http://www.modhoster.de/mods/fox-alpha-beta-mapviewer--3]]  
 [[MapViewer für mvp-beta-bullgore80-map Download bei Modhoster.de|http://www.modhoster.de/mods/mapviewer-fuer-mvp-beta-bullgore80-map]]  
 [[MadViewer 0.10 Download bei Modhoster.de|http://www.modhoster.de/mods/fox-alpha-beta-mapviewer]]  
