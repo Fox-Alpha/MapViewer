@@ -1,10 +1,14 @@
-Hallo an alle Mapper,
-ich habe einen Vorschlag der Eure Maps noch ein Stück besser machen kann.
+Hallo an alle Mapper,  
+ich habe einen Vorschlag der Eure Maps bestimmt noch ein Stück besser und interessanter macht.
 
 Zum besseren Verständnis meines Vorschlags sollte jeder wissen um was es beim MapViewer geht.
-Wer noch nicht weiss was der Mapviewer ist der kann sich und sollte sich meine [[Beschreibung|Mapviewer-v0.35]] und die [[Screenshots|Mapviewer-Screenshots]] einmal genauer anschauen.
+Lesst euch zuerst einmal meine [[Beschreibung|Mapviewer-v0.35]] durch und schaut euch meine [[Screenshots|Mapviewer-Screenshots]] an.
 
 Da ich den MapViewer entworfen habe um die gespielte Map übersichtlicher im Spiel darzustellen mich aber nicht auf die reine Map beschränken möchte habe ich noch die Möglichkeit der PoI und der Feldnummerierung eingefügt.
+
+Viele Mapper bauen zusätzliche Punkte auf der Map mit ein die für das Spiel interessant sind. Sei es ein Bahnhof, eine BGA oder weitere Silohöfe etc. Hier kommt die PoI ins Spiel auf der diese Punkte angezeigt werden ohne die eigentliche PDA zu beeinflussen.
+
+Die Feldnummerierung richtet sich in der Hauptsache wohl eher an die regelmäßigen Multiplayer die eine bessere Absprache mit den anderen Spielern wollen. Hier kann nun beispielsweise direkt ein Feld angesprochen werden und abgestimmt werden wer welche Arbeit verrichtet.
 
 Wie kann nun dies Eure Map verbessern ?
 
