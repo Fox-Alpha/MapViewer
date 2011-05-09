@@ -25,13 +25,12 @@ Meine Entwickler Version kann schon aus dem Mapzip die PDA laden und anzeigen, s
 Ich möchte nun eine Kooperation mit möglichst vielen Mappern eingehen, der Mapper fügt in seine Zip zur normalen PDA eine Nummerierung und/oder eine PoI ein. Kann nun in seine Beschreibung eine kompatibilität zum MapViewer erwähnen andersherum erwähne ich alle Mapper (die mich informiert haben) in meinem MapViewer. Dies beschert uns allen mit sicherheit mehr zugriffe.
 
 #### Was ist nötig ?
-Ihr erstellt so wie bisher eine ordentliche PDA Map (Dies sollte in eurem Interesse sowieso gemacht werden.
-Zusätzlich erzeugt Ihr eine Transparente Grafik für die NUmmerierung und die PoI (falls gewünscht) und fügt diese zwei Dateien eurem zip im gleichen Ordner wie die PDA hinzu.
-Schreibt mir eine PM bei Modhoster oder eine EMail an [[Fox-Alpha@Tarnhoerner.de]]
-Kurze Beschreibung bzw einen Link wo eure Map zufinden ist. (Bitte keinen download, ich werde mir nicht jede Map herunterladen)
-Erwähnt bei eurer Beschreibung meinen Mapviewer
-
-Das war es schon.
+Ihr erstellt so wie bisher eine ordentliche PDA Map (Dies sollte in eurem Interesse sowieso gemacht werden.  
+Zusätzlich erzeugt Ihr eine Transparente Grafik für die NUmmerierung und die PoI (falls gewünscht) und fügt diese zwei Dateien eurem zip im gleichen Ordner wie die PDA hinzu.  
+Schreibt mir eine PM bei Modhoster oder eine EMail an [[Fox-Alpha@Tarnhoerner.de]]  
+Kurze Beschreibung bzw einen Link wo eure Map zufinden ist. (Bitte keinen download, ich werde mir nicht jede Map herunterladen)  
+Erwähnt bei eurer Beschreibung meinen Mapviewer  
+Das war es schon.  
 
 Ich bin fester Ansicht das hiervon beide Seiten, Du als Mapper und ich mit den Mapviewer davon profitieren können.
 
