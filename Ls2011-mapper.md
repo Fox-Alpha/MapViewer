@@ -20,3 +20,10 @@ Dies möchte ich natürlich nicht für jede der tausend anderen Maps ebenfalls m
 Ich möchte nun eine Kooperation mit möglichst vielen Mappern eingehen, der Mapper fügt in seine Zip zur normalen PDA eine Nummerierung und/oder eine PoI ein. Kann nun in seine Beschreibung eine kompatibilität zum MapViewer erwähnen andersherum erwähne ich alle Mapper (die mich informiert haben) in meinem MapViewer. Dies beschert uns allen mit sicherheit mehr zugriffe.
 
 Wie aus den Kommentaren auf Modhoster.de zu meinem MapViewer zu entnehmen ist, kommt diese kleine Modifikation recht gut und sehr positiv in der Community an.
+
+Wer sich von den Kommentaren überzeugen möchte, kann dies gerne tun. Hier alle wichtigen Links auf Modhoster.de
+### Links zum MapViewer
+[[MapViewer 0.35 Download bei Modhoster.de|http://www.modhoster.de/mods/fox-alpha-beta-mapviewer--4]]
+[[MapViewer 0.34 Download bei Modhoster.de|http://www.modhoster.de/mods/fox-alpha-beta-mapviewer--3]]
+[[MapViewer für mvp-beta-bullgore80-map Download bei Modhoster.de|http://www.modhoster.de/mods/mapviewer-fuer-mvp-beta-bullgore80-map]]
+[[MadViewer 0.10 Download bei Modhoster.de|http://www.modhoster.de/mods/fox-alpha-beta-mapviewer]]
