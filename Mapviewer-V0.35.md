@@ -1,5 +1,8 @@
 ## MapViewer Version 0.35
 
+#### Download
+[[Download auf www.modhoster.de|http://www.modhoster.de/mods/fox-alpha-beta-mapviewer--4]]
+
 ### Was ist der MapViewer nicht ?
 Der Mapviewer ist keine eigene Karte für den LS 2011, es handelt sich nur um eine Erweiterung zu dem Spiel.
 
