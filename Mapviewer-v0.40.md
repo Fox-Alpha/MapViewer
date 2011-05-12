@@ -21,5 +21,5 @@ MapViewer V0.4 Changelog
 	- Klappt auf allen getesteten Karten
 	
   + Aufräumen des Quelltextes
-    -- Überflüssige Scriptzeilene entfernt
-	-- Bessere Kommentare eingefügt
+    - Überflüssige Scriptzeilene entfernt
+	- Bessere Kommentare eingefügt
