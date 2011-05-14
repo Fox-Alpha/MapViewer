@@ -12,7 +12,7 @@
 [[mapviewer.xml|Mapviewer-xml]]   
 
 ### Aktuelle Version
-[[Version 0.40|Mapviewer-v0.40]]  
+[[Version 0.40|Mapviewer-v0.40]]  14.05.2011
 
 ### Nächste Version 
 [[Version 0.50|Mapviewer-v0.50]]  
