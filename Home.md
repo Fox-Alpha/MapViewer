@@ -12,12 +12,13 @@
 [[mapviewer.xml|Mapviewer-xml]]   
 
 ### Aktuelle Version
-[[Version 0.35|Mapviewer-v0.35]]  
-
-### Nächste Version 
 [[Version 0.40|Mapviewer-v0.40]]  
 
+### Nächste Version 
+[[Version 0.40|Mapviewer-v0.50]]  
+
 ### Ältere Versionen
+[[Version 0.35|Mapviewer-v0.35]]  
 [[Version 0.34|Mapviewer-v0.34]]  
 [[Version 0.31|Mapviewer-v0.31]]  
 [[Version 0.25|Mapviewer-v0.25]]  
