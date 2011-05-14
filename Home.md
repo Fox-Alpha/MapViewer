@@ -15,7 +15,7 @@
 [[Version 0.40|Mapviewer-v0.40]]  
 
 ### Nächste Version 
-[[Version 0.40|Mapviewer-v0.50]]  
+[[Version 0.50|Mapviewer-v0.50]]  
 
 ### Ältere Versionen
 [[Version 0.35|Mapviewer-v0.35]]  
