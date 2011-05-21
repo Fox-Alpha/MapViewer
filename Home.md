@@ -9,8 +9,8 @@
 [[Vorschlag an die Mapper für LS11|Ls2011-mapper]]  
 
 ### Allgemeines
-[[MapViewer an weitere Karten anpassen|Mapviewer-anpassen]]  
-[[mapviewer.xml|Mapviewer-xml]]   
+[[MapViewer an weitere Karten anpassen|Mapviewer-anpassen]]  (Version 0.35)  
+[[mapviewer.xml|Mapviewer-xml]]   (Version 0.35)  
 
 ### Aktuelle Version
 [[Version 0.40|Mapviewer-v0.40]]  14.05.2011
