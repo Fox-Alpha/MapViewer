@@ -2,6 +2,7 @@
 
 ### Informationen
 [[Beschreibung|Mapviewer-Beschreibung]]  
+[[Tastenbelegung|Mapviewer-Tastenbelegung]]  
 [[Screenshots|Mapviewer-Screenshots]]  
 [[Downloads|Mapviewer-Downloads]]  
 [[Komplettes Changelog|Changelog]]  
