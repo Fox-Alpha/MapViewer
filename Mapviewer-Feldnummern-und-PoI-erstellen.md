@@ -11,5 +11,8 @@ Hier ist meine kleine Anleitung zum erstellen der Feldnummern und der Points of 
 
 #### Schritt für Schritt
 
-1. Extrahiert mit eurem Zip Programm aus der Map die PDA_Map. Diese ist im Unterordner Map01 zu finden.
-2. 
+1. Enpackt einfach die komplette Map in einen eigenen Ordner. Im Ordner /Map01/ sollte nun die pda_map.dds oder pda_map.png zufinden sein.
+2. Startet Paint.NET und öffnet die PDA Map aus eurem Map Ordner.
+3. Im Paint.Net legt Ihr nun eine weitere Ebene in der PDA an.
+3.1 Auf dieser Ebene tragt Ihr nun als Text eure Feldnummern ein.
+3.2 Wenn alle Felder nummeriert sind. Markiert Ihr auf dieser Ebene alles (STRG+A), Kopiert es, (STRG+C) und legt eine eigene Grafik hierfür an (STRG+ALT+V). Diese neue Grafik speichert Ihr nun als eigene Datei unter dem Namen : MV_Feldnummern.png
