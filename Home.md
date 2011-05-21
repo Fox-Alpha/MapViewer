@@ -7,7 +7,7 @@
 [[Downloads|Mapviewer-Downloads]]  
 [[Komplettes Changelog|Changelog]]  
 [[Vorschlag an die Mapper für LS11|Ls2011-mapper]]  
-[[Erstellen der Feldnummerierung und der PoI für die eigene Map|Mapviewer-Nummern-und-PoI]]
+[[Erstellen der Feldnummerierung und der PoI für die eigene Map|Mapviewer-Feldnummern-und-PoI-erstellen]]
 
 ### Allgemeines
 [[MapViewer an weitere Karten anpassen|Mapviewer-anpassen]]  (Version 0.35)  
