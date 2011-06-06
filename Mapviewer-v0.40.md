@@ -1,10 +1,9 @@
-Meine nächste Version des MapViewers steht in den Startlöchern.
-Ich muss nur noch ein paar Kleinigkeiten ausbügeln.
+Meine neueste Version steht seit dem 14.05.2011 zum Download. Zufinden auf [[http://www.Modhoster.de|http://www.modhoster.de/mods/fox-alpha-beta-mapviewer--5]]
 
-Besonders habe ich mich darauf konzentriert das der MapViewer unabhängig auf die PDA_Map der geladenen Karte zugreifen kann.
-Dies funktioniert auch schon nach meinen Tests ohne schwierigkeiten.
+Besonders habe ich mich darauf konzentriert das der MapViewer unabhängig auf die PDA_Map der geladenen Karte zugreifen kann.  
 
-Die Einbindung der PoI (Points of interessts) und der Feldnummerierung muss ich noch so gestalten das dies nach Möglichkeit ohne User Eingriff geschehen kann. Hierzu habe ich mir ein einfaches Konzept überlegt, wobei allerdings die Mithilfe der Mapper gefragt ist. (Details unter :)
+Jeder Mapper oder auch Spieler kann auf einfache weise, die Einbindung der PoI (Points of interessts) und der Feldnummerierung vornehmen. Hierzu ist es nur notwendig dei entsprechende Grafik in der Map.zip mit bereitzustellen.
+Eine Anleitung zum erstellen findet sich unter : [[https://github.com/Fox-Alpha/MapViewer/wiki/Mapviewer-Feldnummern-und-PoI-erstellen]]
 
 MapViewer V0.4 Changelog
 ========================
