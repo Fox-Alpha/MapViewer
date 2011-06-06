@@ -5,7 +5,7 @@ Der MapViewer ist eine Modifikation zum Spiel [[Landwirtschafts Simulator 2011|l
 Der Mapviewer ist keine eigene Karte für den LS 2011, es handelt sich nur um eine Erweiterung zu dem Spiel.
 
 ### Aktuelle Version
-[[MapViewer V0.35|Mapviewer-v0.35]]
+[[MapViewer V0.35|Mapviewer-v0.40]]
 
 ### Was kann der MapViewer ?
 + Anzeigen der Karte auf dem gesamten Bildschirm
@@ -13,5 +13,6 @@ Der Mapviewer ist keine eigene Karte für den LS 2011, es handelt sich nur um ei
 + Anzeigen der Namen aller Spieler
 + Anzeigen von Fahrzeugen und Geräten
 + Anpassen der Tastenkombinationen über die Spieloptionen
-+ Einblenden einer Symbollegende
-+ Unterstützt auch doppelt grosse Karten
++ Dynamische Transparenz
++ Einblenden einer Symbol-legende
++ Unterstützt auch doppelt große Karten
